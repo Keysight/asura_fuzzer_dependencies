@@ -1,0 +1,6 @@
+[submodule "srsRAN"]
+	path = srs-ran
+	url = https://github.com/srsran/srsRAN.git
+[submodule "wireshark"]
+	path = wireshark
+	url = https://github.com/wireshark/wireshark.git
