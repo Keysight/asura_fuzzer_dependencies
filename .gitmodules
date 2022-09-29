@@ -4,3 +4,6 @@
 [submodule "wireshark"]
 	path = wireshark
 	url = https://github.com/wireshark/wireshark.git
+[submodule "dlt-daemon"]
+	path = dlt-daemon
+	url = https://github.com/COVESA/dlt-daemon.git
