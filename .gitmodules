@@ -4,3 +4,6 @@
 [submodule "dlt-daemon"]
 	path = dlt-daemon
 	url = https://github.com/COVESA/dlt-daemon.git
+[submodule "json-map"]
+	path = json-map
+	url = https://github.com/bk192077/struct_mapping.git
