@@ -7,3 +7,12 @@
 [submodule "json-map"]
 	path = json-map
 	url = https://github.com/bk192077/struct_mapping.git
+[submodule "radamsa"]
+	path = radamsa
+	url = https://gitlab.com/akihe/radamsa
+[submodule "radamsa"]
+	path = radamsa
+	url = https://gitlab.com/akihe/radamsa
+[submodule "asn1c"]
+    path = asn1c
+    url = https://github.com/mouse07410/asn1c
