@@ -10,9 +10,6 @@
 [submodule "radamsa"]
 	path = radamsa
 	url = https://gitlab.com/akihe/radamsa
-[submodule "radamsa"]
-	path = radamsa
-	url = https://gitlab.com/akihe/radamsa
 [submodule "asn1c"]
-    path = asn1c
-    url = https://github.com/mouse07410/asn1c
+	path = asn1c
+	url = https://github.com/mouse07410/asn1c
